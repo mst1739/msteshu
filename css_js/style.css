@@ -1,0 +1,69 @@
+TABLE {FONT-SIZE: 12px}
+
+BODY {	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-RIGHT: 0px; BORDER-TOP: 0px; MARGIN: 0px; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px}
+H1 {	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-RIGHT: 0px; BORDER-TOP: 0px; MARGIN: 0px; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px}
+H2 {	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-RIGHT: 0px; BORDER-TOP: 0px; MARGIN: 0px; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px}
+H3 {	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-RIGHT: 0px; BORDER-TOP: 0px; MARGIN: 0px; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px}
+H4 {	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-RIGHT: 0px; BORDER-TOP: 0px; MARGIN: 0px; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px}
+H5 {	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-RIGHT: 0px; BORDER-TOP: 0px; MARGIN: 0px; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px}
+P {	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-RIGHT: 0px; BORDER-TOP: 0px; MARGIN: 0px; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px}
+FORM {	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-RIGHT: 0px; BORDER-TOP: 0px; MARGIN: 0px; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px}
+UL {	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-RIGHT: 0px; BORDER-TOP: 0px; MARGIN: 0px; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px}
+OL {	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-RIGHT: 0px; BORDER-TOP: 0px; MARGIN: 0px; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px}
+DL {	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-RIGHT: 0px; BORDER-TOP: 0px; MARGIN: 0px; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px}
+IMG {	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-RIGHT: 0px; BORDER-TOP: 0px; MARGIN: 0px; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px}
+
+fieldset{	BORDER-RIGHT: #f5f5f5 1px solid; BORDER-TOP: #f5f5f5 1px solid; BORDER-LEFT: #f5f5f5 1px solid;BORDER-BOTTOM: #f5f5f5 1px solid;}
+
+
+A {		COLOR: #1739aa; TEXT-DECORATION: none}
+A:hover {	COLOR: #cd0104; TEXT-DECORATION: underline;}
+
+A.title {		COLOR: #112266; TEXT-DECORATION: none}
+A.title:hover {		COLOR: #662211; TEXT-DECORATION: underline;}
+
+A.main_title {		font-size:13px;font-family:体;COLOR: #883311; TEXT-DECORATION: none}
+A.main_title:hover {	font-size:13px;font-family:体;COLOR: #331188; TEXT-DECORATION: underline;}
+
+A.top_menu {		font-size:13px;font-family:体;COLOR: #ffffff; TEXT-DECORATION: none}
+A.top_mehu:hover {	font-size:13px;font-family:体;COLOR: #ffff00; TEXT-DECORATION: underline;}
+
+#header {BACKGROUND: url(../main/images/menu_bg.gif) repeat-x 0px 0px; HEIGHT:42px;font-size:12px;}
+
+#header IMG{	FLOAT: left; MARGIN: 0px 0px 0px 0px}
+
+#header ul.title{FLOAT: left; MARGIN: 13px 0px 0px 10px;font-size:18px;font-family:幼圆;color:#000000;font-weight:bold}
+
+#header ul {float:right;list-style:none;margin:20px 8px 0 0;}
+#header ul li {float:left;display:block;margin:0 5px}
+#header ul li a		{color:#000000;FONT-SIZE: 12px;FONT-FAMILY: 宋体;}
+#header ul li a:link		{color:#000000;FONT-SIZE: 12px;FONT-FAMILY: 宋体;}
+#header ul li a:hover	{color:#1739aa;FONT-SIZE: 12px;FONT-FAMILY: 宋体;}
+
+
+#laohu {BACKGROUND: url(../images/Top_BG.gif) #ffffff repeat 100% 0px;}
+#laohu IMG{FLOAT:left; MARGIN:1px 0px 0px 0px}
+#laohu ul {FLOAT:left;list-style:none;margin:30px 10px 0 0;}
+#laohu ul li {float:left;display:block;margin:0 5px}
+#laohu ul li a	{color:#990000;FONT-SIZE: 16px;FONT-FAMILY: 黑体;}
+#laohu ul li a:link	{color:#990000;FONT-SIZE: 16px;FONT-FAMILY: 黑体;}
+#laohu ul li a:hover	{color:#6666ff;FONT-SIZE: 16px;FONT-FAMILY: 黑体;}
+
+
+#nianlun {background:#ffffff;MARGIN: -40px 100% 10px 10px;POSITION: absolute;width:310px;align:right;Z-INDEX:1}
+#nianlun p.title{FONT-FAMILY: 黑体; FONT-SIZE: 16px; LINE-HEIGHT: 1.8em; MARGIN: 10px 10px 10px 10px; TEXT-ALIGN: left}
+#nianlun p.list {FONT-FAMILY: 宋体; FONT-SIZE: 12px; LINE-HEIGHT: 1.8em; MARGIN: 0px 10px 0px 10px; TEXT-ALIGN: left}
+#nianlun p.menu {FONT-FAMILY: 宋体; FONT-SIZE: 12px; LINE-HEIGHT: 1.8em; MARGIN: 0px 10px 0px 10px; TEXT-ALIGN: left}
+
+#preview {BACKGROUND: url(main_map2.gif) #ffffff no-repeat 100% 0px;height:602px;MARGIN: 10px 0px 60% 0px;POSITION: absolute; Z-INDEX: 1}
+#preview p.title{FONT-FAMILY: 黑体; FONT-SIZE: 20px; LINE-HEIGHT: 1.8em; MARGIN: 10px 10px 10px 10px; TEXT-ALIGN: left}
+#preview p.list {FONT-FAMILY: 宋体; FONT-SIZE: 12px; LINE-HEIGHT: 1.8em; MARGIN: 0px 10px 0px 10px; TEXT-ALIGN: left}
+#preview p.menu {BACKGROUND: url(arrow_bg1.gif) no-repeat 0px 0px;FONT-FAMILY: 宋体; FONT-SIZE: 12px; LINE-HEIGHT: 1.8em; MARGIN: 0px 10px 0px 10px; TEXT-ALIGN: left}
+
+#preview1 {BACKGROUND: url(main_map2.gif) #ffffff no-repeat 100% 0px;height:602px;MARGIN: 10px 12px 60% 10px;BORDER-BOTTOM: #8e8e8e 1px solid; BORDER-LEFT: #8e8e8e 1px solid; BORDER-RIGHT: #8e8e8e 1px solid; BORDER-TOP: #8e8e8e 1px solid; FILTER: progid:DXImageTransform.Microsoft.Shadow(enabled=enabled,color=#8e8e8e,direction=135,strength=6); POSITION: absolute; Z-INDEX: 1}
+#preview1 p{FONT-FAMILY: 宋体; FONT-SIZE: 12px; LINE-HEIGHT: 1.8em; MARGIN: 100px 10px 10px 10px; TEXT-ALIGN: left}
+
+#list {width:90%;height:530px;MARGIN: 0px 0px 100px 40%; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 16px; TEXT-ALIGN: left}
+#list UL	{FONT-FAMILY: 黑体; FONT-SIZE: 20px; LINE-HEIGHT: 1.5em; MARGIN: 0px 0px 0px 0.5em; TEXT-ALIGN: left}
+#list UL LI	{BACKGROUND: url(list_li_bg.gif) no-repeat right 50%; BORDER-BOTTOM: #8e8e8e 1px dashed; LIST-STYLE: url(hli.jpg); MARGIN: 0px 0px 0px 1.5em; PADDING-BOTTOM: 3px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px}
+
